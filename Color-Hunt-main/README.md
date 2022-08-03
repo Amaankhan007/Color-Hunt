@@ -5,4 +5,4 @@ RGB color guessing game using HTML,CSS, and JavaScript.
 
 <b>● Language and Technology:</b> HTML,CSS, and JavaScript
 
-<b>● Author Name:</b> Vineet Jindal(me)
+<b>● Author Name:</b> Amaan Khan(me)
